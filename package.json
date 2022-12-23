@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/miwa3067/scrap#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.132"
+    "zenn-cli": "^0.1.134"
   }
 }
