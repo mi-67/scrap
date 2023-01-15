@@ -3,7 +3,7 @@ title: "[和訳] Nuxt3 公式サイト~Configuration"
 emoji: "✨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["nuxt3","nuxtjs"]
-published: false
+published: true
 ---
 # この記事について
 この記事は[Nuxt3 公式サイト Configuration](https://nuxt.com/docs/getting-started/configuration) を和訳したものになります（日本語が不自然になってしまっている箇所があるのはごめんなさい）。
