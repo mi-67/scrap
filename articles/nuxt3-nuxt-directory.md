@@ -9,8 +9,6 @@ published: true
 この記事は[Nuxt3 公式サイト .nuxt Directory](https://nuxt.com/docs/guide/directory-structure/nuxt) を和訳したものになります（日本語が不自然になってしまっている箇所があるのはごめんなさい）。
 https://nuxt.com/docs/guide/directory-structure/nuxt
 
-
-
 # .nuxt Directory
 Nuxt は開発時に `.nuxt/` ディレクトリを使い、Vue アプリケーションを生成します。
 
